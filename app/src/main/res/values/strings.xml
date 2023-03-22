@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="titulo_lenguaje"> Lenguaje Programacion</string>
+    <string name="caracteristica_lenguaje">Caracteristica</string>
+</resources>
